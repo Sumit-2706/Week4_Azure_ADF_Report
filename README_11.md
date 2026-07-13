@@ -198,16 +198,9 @@ week4-azure-adf-pipeline/
 
 ---
 
-## 📄 Full Report
-
-A detailed Word document report covering all tasks, explanations, and screenshots is available at:
-[`docs/Week4_Azure_ADF_Report.docx`](./docs/Week4_Azure_ADF_Report.docx)
-
----
-
 ## 🙋 Author
 
-**Name:** [Your Name]
+**Name:** Sumit kumar singh
 **Internship:** Celebal Technologies — Data Engineering / Cloud Internship
 **Week:** 4
 **Date:** July 2026
